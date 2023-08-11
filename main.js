@@ -1,5 +1,6 @@
 import { Calendar, CrudManager } from "@bryntum/calendar";
 import "@bryntum/calendar/calendar.stockholm.css";
+import "./style.css";
 
 const crudManager = new CrudManager({
   transport: {
